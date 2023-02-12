@@ -32,7 +32,7 @@ a {
 
 /* utilities */
 .container {
-  width: min(90vw, 2000px);
+  width: min(90vw, 1024px);
   margin: auto;
 }
 
